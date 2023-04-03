@@ -1,4 +1,4 @@
-# redes-sem-pesos
+# Quantum-WNN
 
 Experiments with Quantum Weightless Neural Networks.
 
